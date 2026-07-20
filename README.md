@@ -1,16 +1,27 @@
-## Hi there 👋
+Create a premium GitHub Profile README in Markdown.
 
-<!--
-**santhoshkarthi002/santhoshkarthi002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Use a modern, professional design with:
+- Hero banner section
+- Animated typing header
+- About Me
+- Social badges (LinkedIn, Portfolio, Email)
+- Tech Stack using skillicons.dev
+- Current Projects
+- GitHub Stats
+- Top Languages
+- GitHub Streak
+- Contribution Graph
+- Tools & Technologies
+- Fun Fact
+- Visitor Counter
+- Clean footer
 
-Here are some ideas to get you started:
+My details:
+Name: Karthikeyan
+Role: Frontend Developer
+Tech Stack: React.js, SolidJS, TypeScript, JavaScript, Next.js (Basics), Tailwind CSS, Redux Toolkit, Zustand, TanStack Query, React Hook Form, Formik, Yup, Zod, Vite, Git
+Location: India
+LinkedIn: [<your LinkedIn URL>](https://www.linkedin.com/in/karthikeyan-ganeshan05?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Portfolio: <your portfolio URL if available>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Make it visually appealing, responsive, and easy to maintain using Markdown.
