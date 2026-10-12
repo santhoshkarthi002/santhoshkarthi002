@@ -116,24 +116,6 @@ Modern UI animations and interactive experiences
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhoshkarthi002&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/santhoshkarthi002/santhoshkarthi002/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-> 💡 To enable this, add the [GitHub Snake Action](https://github.com/Platane/snk) to your profile repo — it auto-generates an animated snake that "eats" your contribution graph.
-
----
-
 # 💡 Favorite Quote
 
 <div align="center">
